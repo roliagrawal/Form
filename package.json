@@ -1,0 +1,21 @@
+{
+  "name": "varsha",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-popup": "^0.9.3",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "reactjs-popup": "^1.1.1",
+    "redux": "^4.0.0",
+    "store": "^2.0.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
